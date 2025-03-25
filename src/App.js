@@ -4,7 +4,7 @@ import './style.css';
 function Application() {
   return (
     <div className="Application">
-      <h1>Bienvenue sur NeuroLove</h1>
+      <h1>Bienvenue sur NeuroLove?</h1>
       <p>Une application de rencontres basée sur la compatibilité 🧠💫</p>
     </div>
   );
